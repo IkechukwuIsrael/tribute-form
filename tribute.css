@@ -1,0 +1,13 @@
+body {
+font-size: 120%;
+background-color: rgb(231, 244, 255);}
+
+p {text-align: center;}
+
+#title {margin-bottom: 1%; width:90%; height: 30px}
+#name {margin-bottom: 1%; width: 90%; height: 30px}
+#Relations {margin-bottom: 3%; width: 90%; height: 30px}
+#tribute {border-radius: 22px;
+            padding: 22px;
+            margin-bottom: 8%;
+}
